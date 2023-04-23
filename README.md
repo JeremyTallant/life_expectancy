@@ -26,7 +26,7 @@ After completing the installation, launch Jupyter Notebook, navigate to the fold
 3. **Visualize I:** Create a basic scatter plot for male vs. female life expectancy.
 4. **Reference lines I:** Add reference lines and axis limits.
 5. **Plot titles and axis labels:** Add plot titles and axis labels.
-6. **Highlighting remarkable countries I:**
+6. **Highlighting remarkable countries I:** Annotate certain countries on the plot with labels.
 7. **How has life expectancy by gender evolved?:**
 8. **Visualize II:**
 9. **Reference lines II:**
