@@ -21,7 +21,7 @@ IRkernel::installspec()
 ```
 After completing the installation, launch Jupyter Notebook, navigate to the folder containing the notebook file, and open it to begin running the analysis.
 ## Contents
-1. **United Nations life expectancy data:**
+1. **United Nations life expectancy data:** Load libraries and the dataset.
 2. **Life expectancy of men vs. women by country:**
 3. **Visualize I:**
 4. **Reference lines I:**
