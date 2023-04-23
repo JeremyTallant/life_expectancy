@@ -23,7 +23,7 @@ After completing the installation, launch Jupyter Notebook, navigate to the fold
 ## Contents
 1. **United Nations life expectancy data:** Load libraries and the dataset.
 2. **Life expectancy of men vs. women by country:** Manipulate the dataset to contain male and female life expectancy for each country.
-3. **Visualize I:**
+3. **Visualize I:** Create a basic scatter plot for male vs. female life expectancy.
 4. **Reference lines I:**
 5. **Plot titles and axis labels:**
 6. **Highlighting remarkable countries I:**
