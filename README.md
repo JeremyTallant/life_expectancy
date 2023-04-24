@@ -30,4 +30,4 @@ After completing the installation, launch Jupyter Notebook, navigate to the fold
 7. **How has life expectancy by gender evolved?:** Manipulate the dataset to contain the *difference* in male and female life expectancy for each country.
 8. **Visualize II:** Plot the variables on the scatter plot and create axis limits.
 9. **Reference lines II:** Add reference lines to the plot.
-10. **Highlighting remarkable countries II:**
+10. **Highlighting remarkable countries II:** Annotate certain countries on the plot with labels.
