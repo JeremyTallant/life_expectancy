@@ -28,6 +28,6 @@ After completing the installation, launch Jupyter Notebook, navigate to the fold
 5. **Plot titles and axis labels:** Add plot titles and axis labels.
 6. **Highlighting remarkable countries I:** Annotate certain countries on the plot with labels.
 7. **How has life expectancy by gender evolved?:** Manipulate the dataset to contain the *difference* in male and female life expectancy for each country.
-8. **Visualize II:**
+8. **Visualize II:** Plot the variables on the scatter plot and create axis limits.
 9. **Reference lines II:**
 10. **Highlighting remarkable countries II:**
